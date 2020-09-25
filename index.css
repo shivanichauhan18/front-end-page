@@ -1,0 +1,156 @@
+.container {
+  position: relative;
+  text-align: center;
+}
+.text-content{
+  position: absolute;
+  color:white;
+  text-align: center;
+  left: 0;
+  right: 0;
+  top: 10%;
+  letter-spacing: 3px;
+}
+.containers{
+  background-color: white;
+  color: blue;
+}
+#game_imgs{
+  position: absolute;
+  left: 80%;
+  top: 96%;
+}
+.refine_img{
+  color: purple;
+}
+.caption{
+  position: absolute;
+  background-color:purple;
+  color:white;
+}
+.text-block {
+  position: absolute;
+  text-align: center; 
+  color: white;
+  left: 10%;
+  bottom: 75%;
+}
+.utrus_game{
+  position: absolute;
+  height: 50px;
+  width: 100px;
+  top: 170%;
+  color: purple;
+}
+p{
+  color: white;
+  max-width: 60%;
+  margin: 15px auto 0 ;
+}
+#rcorners1{
+  display:inline-table;
+  transform: translate(0px, 0px);
+  border-radius: 100%;
+  background:black;
+  padding: 80px;
+  opacity: 1;
+}
+#rcorners2{
+  display: inline-table;
+  transform: translate(0px, 0px);
+  border-radius: 100%;
+  background-color: blueviolet;
+  padding: 80px;
+  text-align: center;
+  opacity: 1;
+}
+#rcorners3{
+  display: inline-table;
+  transform: translate(0px, 0px);
+  border-radius: 100%;
+  background-color: rgb(226, 43, 171);
+  padding: 80px;
+  text-align: center;
+  opacity: 1;
+}
+.overflow-wrapper{
+  position: absolute;
+  left: 170px;
+  top: 62%;
+  border-spacing: 15px 50px;
+}
+.table{
+  color: white;
+  border-collapse: separate;
+  border-spacing: 15px;
+}
+.table-title{
+  background-color: wheat;
+  color: black;
+}
+.business-class h1{
+  position: absolute;
+  left: 90px;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 75%;
+}
+.business-pera{
+  position: absolute;
+  top: 75%;
+  font-family: Arial;
+  left: 400px;
+}
+.content-data h1{
+  top: 75%;
+  font-family: Arial;
+  left: 400px;
+  
+}
+.image {
+  position: absolute;
+  top: 30px;
+  left: 40px;
+}
+.statments{
+  position: absolute;
+  left: 200px;
+  top: 35px;
+}
+.orders{
+  position: absolute;
+  left: 100px;
+  top: 35px;
+}
+.button_css1{
+  position: absolute;
+  background-color:rgb(238, 120, 24);
+  top: 35px;
+  color:black;
+}
+.button_css2{
+  position: absolute;
+  background-color:rgb(238, 120, 24);
+  top: 3px;
+  color:black;
+}
+.nav navbar-nav{
+  color: white;
+}
+.word_info h1{
+  position: absolute;
+  direction:left;
+  font-size: 90px;
+  margin-top:calc(54.28571px + 5.63025vw);
+  margin-bottom: calc(62.85714px + 6.89076vw);
+  opacity: 3; 
+  transform: translate3d(-542.04px, 0px, 0px);
+  color:white;
+}
+
+
+
+body{
+  background-color:purple;
+}
+
